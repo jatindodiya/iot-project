@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+    background-color: #C32A2F;
+    margin: 5px;
+  }
+  #header{
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+    border-radius: 10px;
+  }
+  #logo{
+    border-radius: 10px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 100%;
+  }
+  #name{
+    font-size: 300%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    text-shadow: 2px 2px black;
+    text-align: left;
+    color: #E09E0E;
+    font-family: Verdana;
+  }
+  #discription{
+    font-size: 100%;
+    text-shadow: 1px 1px black;
+    padding-top: 0px;
+    text-align: left;
+    color: #E09E0E;
+    font-family: Verdana;
+  }
+  .lightButton{
+    margin: 20px;
+    background-color: #E09E0E;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+  }
+  .slotstatus1{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+  }
+  .slotstatus2{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+  }
+  .slotstatus3{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+  }
+  .slotstatus4{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+  }
+  .slotstatus5{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+  }
+  .slotstatus6{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana;
+  }
+  
